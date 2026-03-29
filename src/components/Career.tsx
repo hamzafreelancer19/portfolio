@@ -15,58 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Freelance Developer</h4>
+                <h5>Self-Employed</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Building full-stack web applications using React, Node.js, Express, and Next.js. Developing responsive user interfaces and robust backend services. Working with MongoDB for database design and optimization.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>MERN Stack Developer</h4>
+                <h5>Skilled in React, Node.js, Express, Next.js</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>Core Stack</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Proficient in building scalable web applications with modern technologies. Experience with React for dynamic user interfaces, Node.js and Express for server-side development, and MongoDB for database management. Also experienced with Next.js for full-stack applications.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Frontend Development</h4>
+                <h5>React & Next.js</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>Expertise</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
-              </div>
-              <h3>2013-16</h3>
-            </div>
-            <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Building responsive, accessible, and performant web applications. Experience with component-based architecture, state management, and modern CSS practices. Proficient with React hooks and Next.js features like SSR and SSG.
             </p>
           </div>
         </div>
