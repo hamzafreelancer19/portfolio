@@ -58,8 +58,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://github.com/akashrmalhotra"
-            target="_blank"
+
             rel="noreferrer"
           >
             <FaGithub />
@@ -67,7 +66,6 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.youtube.com/@Leftbraincoder"
             target="_blank"
             rel="noreferrer"
           >
@@ -76,7 +74,6 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.instagram.com/leftbraincoder/"
             target="_blank"
             rel="noreferrer"
           >
